@@ -1,5 +1,5 @@
 const section1 = document.querySelector('.intro');
-const header = document.querySelector('header');
+const header= document.querySelector('header'); //selecting query
 const options = {
     threshold: 0,
     rootMargin: '-150px 0px -300px 0px'
